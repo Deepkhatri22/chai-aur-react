@@ -8,7 +8,7 @@ function Todos() {
 
   return (
     <>
-    <div>Todos</div>
+    <div className='text-white pt-3'>Todos</div>
     <ul className="list-none">
         {todos.map((todo) => (
           <li
