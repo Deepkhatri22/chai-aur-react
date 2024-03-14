@@ -18,7 +18,6 @@ function AddTodo() {
       setInput('')
       seterrorMessage('')
     }
-
   }
 
   return (
